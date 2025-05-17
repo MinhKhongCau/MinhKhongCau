@@ -44,10 +44,6 @@ Welcome to my GitHub! I'm passionate about building robust backend systems, desi
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat)
 ![Microservices](https://img.shields.io/badge/-Microservices-00BFFF?style=flat)
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhKhongCau&show_icons=true&theme=tokyonight)
-
 ## 🌱 Currently Learning
 
 - Advanced Kafka stream processing
@@ -60,7 +56,3 @@ Feel free to reach out or connect:
 
 - 💌 Email: ngoquangminh.1922@gmail.com
 - 🔗 LinkedIn: Ngo Quang Minh(https://www.linkedin.com/in/quang-minh-ng%C3%B4-307540321/)
-
----
-
-_Thanks for visiting! Let's build something awesome together._ 🚀
