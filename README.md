@@ -44,7 +44,7 @@ I am a **Software Engineer** specializing in **Backend Development** and **AI Ap
 ---
 
 ## 📊 My GitHub Activity
-![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhKhongCau&show_icons=true&theme=tokyonight)
+![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhKhongCau)](https://github.com/MinhKhongCau)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinhKhongCau&layout=compact&theme=tokyonight)
 
 ---
