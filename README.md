@@ -45,8 +45,7 @@ I am a **Software Engineer** specializing in **Backend Development** and **AI Ap
 
 ## 📊 My GitHub Activity
 
-[![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhKhongCau)](https://github.com/anuraghazra/github-readme-stats)
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/MinhKhongCau?cardType=level&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinhKhongCau&theme=apprentice) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinhKhongCau&theme=apprentice) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinhKhongCau&theme=apprentice) 
