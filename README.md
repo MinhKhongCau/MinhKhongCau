@@ -1,58 +1,150 @@
-# 👨‍💻 Hi there, I'm a Software Engineer!
+👨‍💻 Ngô Quang Minh – Backend / Full-Stack / AI Engineer
+🎯 Professional Summary
 
-Welcome to my GitHub! I'm passionate about building robust backend systems, designing modern frontend applications, and exploring the possibilities of machine learning and distributed systems.
+I am a Software Engineer specializing in Backend Development, Full-Stack Engineering, and Applied AI systems.
 
-## 🚀 About Me
+I design and build scalable web applications, distributed systems, and real-time data services with a strong focus on performance, maintainability, and clean architecture.
 
-- 💼 Software Engineer with a strong foundation in backend & frontend development
-- 🎯 Focused on developing scalable web applications, real-time services, and data-driven solutions
-- 🧠 Enthusiast in Machine Learning and system design
-- 🛠 Currently working with microservices, containerization, and Linux-based environments
+I actively leverage AI tools in my daily workflow — from code generation and refactoring to system design brainstorming and debugging. I believe mastering AI-assisted development and vibe coding is not optional, but an essential skill for modern engineers. My goal is not just to use AI, but to control, validate, and optimize it to increase development velocity while maintaining high code quality.
 
-## 🧰 Tech Stack
+I am persistent, creative, and solution-oriented when facing technical challenges.
 
-### 💻 Languages
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+💼 Core Competencies
+🧱 Backend Engineering
 
-### 🧱 Backend
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![MVC](https://img.shields.io/badge/-MVC-0088CC?style=flat)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Web Services](https://img.shields.io/badge/-REST%20API-0052CC?style=flat)
+RESTful API design with Spring Boot
 
-### 🎨 Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+Authentication & Authorization (JWT, Spring Security)
 
-### 🗃️ Databases
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![H2](https://img.shields.io/badge/-H2%20Database-4DB33D?style=flat)
-![ORM](https://img.shields.io/badge/-ORM-00758F?style=flat)
+Microservices architecture
 
-### 🛠 Tools & Platforms
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![OS Knowledge](https://img.shields.io/badge/-Operating%20System%20Concepts-00599C?style=flat)
+Event-driven systems with Apache Kafka
 
-### 📊 Others
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat)
-![Microservices](https://img.shields.io/badge/-Microservices-00BFFF?style=flat)
+Real-time data services (Flask + WebSockets / Socket.IO)
 
-## 🌱 Currently Learning
+Distributed system fundamentals
 
-- Advanced Kafka stream processing
-- Real-time data pipelines using Flask & WebSockets
-- Computer vision & deep learning applications
+Database performance tuning & query optimization
 
-## 🤝 Let's Connect
+Clean Architecture & layered design (Controller – Service – Repository)
 
-Feel free to reach out or connect:
+Dockerized deployment & Linux server environments
 
-- 💌 Email: ngoquangminh.1922@gmail.com
-- 🔗 LinkedIn: Ngo Quang Minh(https://www.linkedin.com/in/quang-minh-ng%C3%B4-307540321/)
+🎨 Full-Stack Development
+
+React (component architecture, reusable UI design)
+
+State management & form handling
+
+API integration & real-time frontend updates
+
+Responsive UI with HTML5 & CSS3
+
+Backend–Frontend integration patterns
+
+Authentication flows (JWT-based SPA architecture)
+
+🗃️ Database & Data Systems
+
+Microsoft SQL Server
+
+Index optimization
+
+Execution plan analysis
+
+Parallel query processing
+
+Stored Procedures
+
+MongoDB (NoSQL modeling for real-time systems)
+
+ORM integration & transactional consistency
+
+Data modeling for scalable systems
+
+🧠 Artificial Intelligence & Machine Learning
+🚦 Traffic Light Control using Reinforcement Learning
+
+Designed an intelligent traffic signal control system using Reinforcement Learning (Q-Learning).
+
+Modeled state-action-reward environments for dynamic phase switching.
+
+Built simulation logic to evaluate congestion reduction strategies.
+
+Focused on real-time decision updates and policy optimization.
+
+🔍 Missing Person Search Simulation using AI Search Algorithms
+
+Implemented AI-based search strategy simulations.
+
+Designed intelligent path exploration models.
+
+Evaluated search efficiency using scenario-driven optimization techniques.
+
+🤖 Computer Vision & Deep Learning
+
+Developed CNN-based models for face detection.
+
+Applied Gabor feature extraction techniques.
+
+Optimized grayscale image pipelines for memory efficiency.
+
+Implemented sliding window detection logic.
+
+Built preprocessing and training pipelines.
+
+⚙️ DevOps & Engineering Workflow
+
+Docker containerization & service orchestration
+
+Linux environment configuration & troubleshooting
+
+Git workflow & version control
+
+API testing & debugging
+
+Writing modular, testable, and maintainable code
+
+🤖 AI-Augmented Development Skills
+
+Effective prompt engineering for code generation
+
+AI-assisted debugging & refactoring
+
+AI-supported architecture brainstorming
+
+Code validation & critical evaluation of AI-generated solutions
+
+Rapid prototyping using AI tools
+
+Adapting to modern “vibe coding” workflows responsibly
+
+I use AI as a productivity multiplier — not as a replacement for engineering thinking.
+
+🚀 Professional Strengths
+
+Strong analytical and system design mindset
+
+Creative problem solver under constraints
+
+Persistent and disciplined when facing complex technical challenges
+
+Fast learner in new frameworks and distributed technologies
+
+Comfortable working across Backend, Frontend, and AI domains
+
+🎯 Career Objective
+
+I am seeking a Backend Engineer, Full-Stack Engineer, or AI Engineer role where I can:
+
+Build scalable distributed systems
+
+Develop high-performance APIs and real-time services
+
+Integrate AI capabilities into production systems
+
+Contribute to modern, AI-augmented engineering teams
+
+I am ready to take ownership of challenging technical problems and deliver reliable, scalable solutions in real-world environments.
+
+If you are looking for an engineer who combines backend strength, full-stack capability, and practical AI experience — I would be excited to contribute to your team.
