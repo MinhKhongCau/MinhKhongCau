@@ -44,8 +44,11 @@ I am a **Software Engineer** specializing in **Backend Development** and **AI Ap
 ---
 
 ## 📊 My GitHub Activity
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhKhongCau)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Minh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinhKhongCau)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinhKhongCau&theme=apprentice) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MinhKhongCau&theme=apprentice) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MinhKhongCau&theme=apprentice) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinhKhongCau&theme=apprentice) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MinhKhongCau&theme=apprentice&utcOffset=8) 
